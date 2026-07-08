@@ -1,0 +1,9 @@
+nltk
+gradio
+openai
+dotenv
+tensorflow
+scikit-learn
+textblob
+pandas
+numpy
